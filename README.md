@@ -7,7 +7,7 @@ A bare-metal minimal example for RA MCU (tested on RA6M5) with:
 - Minimal startup code (only essential init & clock setup)
 - Simple LED blink example
 
-一个极简的RA MCU裸机示例(已在RA4M1测试)：
+一个极简的RA MCU裸机示例(已在RA6M5测试)：
 - 基于CMake的最小化构建系统
 - 最小化链接脚本
 - 最小化启动文件(仅基础初始化和时钟设置)
